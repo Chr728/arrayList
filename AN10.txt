@@ -1,0 +1,265 @@
+<<<<<<<<<<<<<<< USING ARRAYLIST>>>>>>>>>>>>>>
+
+
+inserting at start
+[2]
+inserting at start
+[12, 2]
+inserting at start
+[17, 12, 2]
+time is 0
+
+
+
+inserting at index  1
+[17, 17, 12, 2]
+inserting at index  3
+[17, 17, 12, 5, 2]
+inserting at index  1
+[17, 17, 17, 12, 5, 2]
+time is 0
+
+
+
+inserting at end 
+[17, 17, 17, 12, 5, 2, 6]
+inserting at end 
+[17, 17, 17, 12, 5, 2, 6, 11]
+inserting at end 
+[17, 17, 17, 12, 5, 2, 6, 11, 16]
+inserting at end 
+[17, 17, 17, 12, 5, 2, 6, 11, 16, 18]
+time is 0
+<<<<<<<<<<<<<<< USING MYARRAYLIST>>>>>>>>>>>>>>
+
+
+inserting at start
+The list contains 1 elements: 
+14
+
+inserting at start
+The list contains 2 elements: 
+5
+14
+
+inserting at start
+The list contains 3 elements: 
+13
+5
+14
+
+time is 1
+
+
+
+inserting at index  2
+The list contains 4 elements: 
+13
+5
+15
+14
+
+inserting at index  3
+The list contains 5 elements: 
+13
+5
+15
+15
+14
+
+inserting at index  3
+The list contains 6 elements: 
+13
+5
+15
+12
+15
+14
+
+time is 0
+
+
+
+inserting at end 
+The list contains 7 elements: 
+13
+5
+15
+12
+15
+14
+8
+
+inserting at end 
+The list contains 8 elements: 
+13
+5
+15
+12
+15
+14
+8
+6
+
+inserting at end 
+The list contains 9 elements: 
+13
+5
+15
+12
+15
+14
+8
+6
+6
+
+inserting at end 
+The list contains 10 elements: 
+13
+5
+15
+12
+15
+14
+8
+6
+6
+13
+
+time is 0
+
+
+
+<<<<<<<<<<<<<<< USING MyLinkedLIST>>>>>>>>>>>>>>
+
+
+inserting at start
+The list has 1 elements!
+1
+
+inserting at start
+The list has 2 elements!
+19
+1
+
+inserting at start
+The list has 3 elements!
+4
+19
+1
+
+time is 0
+
+
+
+inserting at index  1
+The list has 4 elements!
+4
+10
+19
+1
+
+inserting at index  2
+The list has 5 elements!
+4
+10
+4
+19
+1
+
+inserting at index  3
+The list has 6 elements!
+4
+10
+4
+4
+19
+1
+
+time is 0
+
+
+
+inserting at end 
+The list has 7 elements!
+4
+10
+4
+4
+19
+1
+1
+
+inserting at end 
+The list has 8 elements!
+4
+10
+4
+4
+19
+1
+1
+5
+
+inserting at end 
+The list has 9 elements!
+4
+10
+4
+4
+19
+1
+1
+5
+12
+
+inserting at end 
+The list has 10 elements!
+4
+10
+4
+4
+19
+1
+1
+5
+12
+11
+
+time is 1
+
+
+
+
+<<<<<<<<<<<<<<< USING LinkedLIST>>>>>>>>>>>>>>
+
+
+inserting at start
+[19]
+inserting at start
+[4, 19]
+inserting at start
+[15, 4, 19]
+time is 1
+
+
+
+inserting at index  3
+[15, 4, 19, 19]
+inserting at index  3
+[15, 4, 19, 1, 19]
+inserting at index  2
+[15, 4, 9, 19, 1, 19]
+time is 0
+
+
+
+inserting at end 
+[15, 4, 9, 19, 1, 19, 16]
+inserting at end 
+[15, 4, 9, 19, 1, 19, 16, 3]
+inserting at end 
+[15, 4, 9, 19, 1, 19, 16, 3, 12]
+inserting at end 
+[15, 4, 9, 19, 1, 19, 16, 3, 12, 2]
+time is 0

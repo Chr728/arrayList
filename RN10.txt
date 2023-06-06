@@ -1,0 +1,331 @@
+The element 12 was not found in the ArrayList...
+
+
+
+
+<------------------------------------->
+<<<<<<<<<<<<<<< USING   MyArrayList >>>>>>>>>>>>>>
+
+
+Before deleting anything original list is :The list contains 10 elements: 
+7
+16
+15
+19
+2
+9
+1
+8
+1
+15
+
+
+
+
+deleting at end 
+The list contains 9 elements: 
+7
+16
+15
+19
+2
+9
+1
+8
+1
+
+deleting at end 
+The list contains 8 elements: 
+7
+16
+15
+19
+2
+9
+1
+8
+
+time is 0
+
+
+
+deleting from start
+The list contains 7 elements: 
+16
+15
+19
+2
+9
+1
+8
+
+deleting from start
+The list contains 6 elements: 
+15
+19
+2
+9
+1
+8
+
+time is 0
+
+
+
+deleting from  index  1
+The list contains 5 elements: 
+15
+2
+9
+1
+8
+
+deleting from  index  2
+The list contains 4 elements: 
+15
+2
+1
+8
+
+deleting from  index  2
+The list contains 3 elements: 
+15
+2
+8
+
+deleting from  index  2
+The list contains 2 elements: 
+15
+2
+
+time is 1
+
+
+
+deleting by value 12
+Cant remove this value does not exist in list
+Cant remove this value does not exist in list
+The list contains 2 elements: 
+15
+2
+
+deleting by value 2
+Cant remove this value does not exist in list
+Cant remove this value does not exist in list
+The list contains 1 elements: 
+15
+
+time is 1
+
+
+
+<------------------------------------->
+<<<<<<<<<<<<<<< USING  ArrayList >>>>>>>>>>>>>>
+
+
+Before deleting anything original list is :[19, 7, 2, 7, 16, 7, 12, 5, 11, 17]
+
+
+
+deleting at end 
+[19, 7, 2, 7, 16, 7, 12, 5, 11]
+deleting at end 
+[19, 7, 2, 7, 16, 7, 12, 5]
+time is 0
+
+
+
+deleting from start
+[7, 2, 7, 16, 7, 12, 5]
+deleting from start
+[2, 7, 16, 7, 12, 5]
+time is 0
+
+
+
+deleting from  index  1
+[2, 16, 7, 12, 5]
+deleting from  index  1
+[2, 7, 12, 5]
+deleting from  index  1
+[2, 12, 5]
+deleting from  index  1
+[2, 5]
+time is 0
+
+
+
+deleting by value 1
+Cant remove this value does not exist in list
+Cant remove this value does not exist in list
+[2, 5]
+deleting by value 2
+Cant remove this value does not exist in list
+Cant remove this value does not exist in list
+[5]
+time is 1
+
+
+
+<------------------------------------->
+<<<<<<<<<<<<<<< USING  MyLinkedList >>>>>>>>>>>>>>
+
+
+Before deleting anything original list is :The list has 10 elements!
+1
+8
+18
+15
+5
+6
+1
+11
+17
+4
+
+
+
+
+deleting at end 
+The list has 9 elements!
+1
+8
+18
+15
+5
+6
+1
+11
+17
+
+deleting at end 
+The list has 8 elements!
+1
+8
+18
+15
+5
+6
+1
+11
+
+time is 1
+
+
+
+deleting from start
+The list has 7 elements!
+8
+18
+15
+5
+6
+1
+11
+
+deleting from start
+The list has 6 elements!
+18
+15
+5
+6
+1
+11
+
+time is 0
+
+
+
+deleting from  index  1
+The list has 5 elements!
+18
+5
+6
+1
+11
+
+deleting from  index  2
+The list has 4 elements!
+18
+5
+1
+11
+
+deleting from  index  2
+The list has 3 elements!
+18
+5
+11
+
+deleting from  index  2
+The list has 2 elements!
+18
+5
+
+time is 0
+
+
+
+deleting by value 19
+Cant remove this value does not exist in list
+Cant remove this value does not exist in list
+The list has 2 elements!
+18
+5
+
+deleting by value 1
+Cant remove this value does not exist in list
+Cant remove this value does not exist in list
+The list has 2 elements!
+18
+5
+
+time is 0
+
+
+
+<------------------------------------->
+<<<<<<<<<<<<<<< USING  LinkedList >>>>>>>>>>>>>>
+
+
+Before deleting anything original list is :[1, 4, 11, 15, 0, 11, 17, 11, 5, 7]
+
+
+
+deleting at end 
+[1, 4, 11, 15, 0, 11, 17, 11, 5]
+deleting at end 
+[1, 4, 11, 15, 0, 11, 17, 11]
+time is 0
+
+
+
+deleting from start
+[4, 11, 15, 0, 11, 17, 11]
+deleting from start
+[11, 15, 0, 11, 17, 11]
+time is 0
+
+
+
+deleting from  index  1
+[11, 0, 11, 17, 11]
+deleting from  index  1
+[11, 11, 17, 11]
+deleting from  index  2
+[11, 11, 11]
+deleting from  index  1
+[11, 11]
+time is 0
+
+
+
+deleting by value 17
+Cant remove this value does not exist in list
+Cant remove this value does not exist in list
+[11, 11]
+deleting by value 2
+Cant remove this value does not exist in list
+Cant remove this value does not exist in list
+[11, 11]
+time is 0
